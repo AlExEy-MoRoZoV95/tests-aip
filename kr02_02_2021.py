@@ -6,7 +6,7 @@ def task_1(two_dim_words):
         Финальное значение должно быть помещено в переменную sorted_words.
         """
 
-    return sorted_words
+    pass
 
 
 def task_3(numbers):
@@ -16,7 +16,7 @@ def task_3(numbers):
         Финальное значение должно быть помещено в переменную dict_min.
         """
 
-    return dict_min
+    pass
 
 
 def task_4_1(words):
@@ -26,7 +26,7 @@ def task_4_1(words):
         Финальное значение должно быть помещено в переменную res.
         """
 
-    return res
+    pass
 
 
 def task_4_2(words):  # можно сделать тесты
@@ -36,7 +36,7 @@ def task_4_2(words):  # можно сделать тесты
         Финальное значение должно быть помещено в переменную res.
         """
 
-    return res
+    pass
 
 
 def task_4_3(words):
@@ -46,7 +46,7 @@ def task_4_3(words):
         Финальное значение должно быть помещено в переменную res.
         """
 
-    return res
+    pass
 
 
 def task_5(lst1, lst2):
