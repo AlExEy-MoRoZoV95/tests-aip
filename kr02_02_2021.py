@@ -50,21 +50,20 @@ def task_4_3(words):
 
 
 def task_5(lst1, lst2):
-    """
-        Здесь должен быть ваш код.
-        Переменные lst1 и lst2 - два данных списка.
-        Финальное значение должно быть помещено в переменную diff.
-        """
+    
+    lst1 = {3, 4, 2, 1, 5, 6}
+    lst2 = {4, 5, 6}
+    diff = list(lst1.difference(lst2))
+    print(set(sorted(diff)))
 
     return diff
 
 
 def task_6(lst):
-    """
-        Здесь должен быть ваш код.
-        Переменная lst - ваш список.
-        Финальное значение должно быть помещено в переменную res.
-        """
+    
+    lst = [1, 2, 2, 3, 3, 4, 5]
+    res = sorted(lst, reverse=True)
+    print(tuple(res))
 
     return res
 
